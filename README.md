@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [Klickje Tech](https://github.com/klickje)
+- 🔭 I’m currently working on My personal projects
 
 - 👨‍💻 All of my projects are available at [https://mehmetfatiherdem.github.io/](https://mehmetfatiherdem.github.io/)
 
