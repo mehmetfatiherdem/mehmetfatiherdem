@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on Java/Spring
 
-- 👨‍💻 All of my projects are available at [https://mehmetfatiherdem.github.io/](https://mehmetfatiherdem.github.io/)
-
-- 💬 Ask me about **Javascript, Typescript and NodeJS**
-
 - 📫 How to reach me **mehmeterdem1024@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sF6hZDqaOK4yTK94SKrcIG0DDkGDf1jd/view](https://drive.google.com/file/d/1sF6hZDqaOK4yTK94SKrcIG0DDkGDf1jd/view)
