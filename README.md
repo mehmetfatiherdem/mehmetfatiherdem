@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on Java/Spring
-
 - 📫 How to reach me **mehmeterdem1024@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sF6hZDqaOK4yTK94SKrcIG0DDkGDf1jd/view](https://drive.google.com/file/d/1sF6hZDqaOK4yTK94SKrcIG0DDkGDf1jd/view)
